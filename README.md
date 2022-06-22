@@ -1,2 +1,2 @@
 # The-Golden-Ratio
-Golden Ratio Program made by me with python.
+Golden Ratio Program made by Fuurvz with python.
